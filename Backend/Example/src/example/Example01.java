@@ -2,11 +2,6 @@ package example;
 
 import java.util.Scanner;
 
-class User {
-	final static String EMAIL = "qwer@qwer";
-	final static String PASSWORD = "qwer";
-}
-
 public class Example01 {
 
 	// 로그인 프로세스
